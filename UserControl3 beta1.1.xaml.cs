@@ -1,4 +1,4 @@
-﻿using Fiddler;
+using Fiddler;
 using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
